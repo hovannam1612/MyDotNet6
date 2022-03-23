@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HoNam\\OneDrive\\Desktop\\DemoNet6\\DemoNet6\\DemoNet6.csproj": {}
+    "C:\\Users\\HoNam\\OneDrive\\Desktop\\MyDotNet6\\DemoNet6\\DemoNet6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HoNam\\OneDrive\\Desktop\\DemoNet6\\DemoNet6\\DemoNet6.csproj": {
+    "C:\\Users\\HoNam\\OneDrive\\Desktop\\MyDotNet6\\DemoNet6\\DemoNet6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HoNam\\OneDrive\\Desktop\\DemoNet6\\DemoNet6\\DemoNet6.csproj",
+        "projectUniqueName": "C:\\Users\\HoNam\\OneDrive\\Desktop\\MyDotNet6\\DemoNet6\\DemoNet6.csproj",
         "projectName": "DemoNet6",
-        "projectPath": "C:\\Users\\HoNam\\OneDrive\\Desktop\\DemoNet6\\DemoNet6\\DemoNet6.csproj",
+        "projectPath": "C:\\Users\\HoNam\\OneDrive\\Desktop\\MyDotNet6\\DemoNet6\\DemoNet6.csproj",
         "packagesPath": "C:\\Users\\HoNam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HoNam\\OneDrive\\Desktop\\DemoNet6\\DemoNet6\\obj\\",
+        "outputPath": "C:\\Users\\HoNam\\OneDrive\\Desktop\\MyDotNet6\\DemoNet6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HoNam\\AppData\\Roaming\\NuGet\\NuGet.Config",
