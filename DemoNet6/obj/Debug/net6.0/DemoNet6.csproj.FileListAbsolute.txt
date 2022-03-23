@@ -1,0 +1,15 @@
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\bin\Debug\net6.0\DemoNet6.exe
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\bin\Debug\net6.0\DemoNet6.deps.json
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\bin\Debug\net6.0\DemoNet6.runtimeconfig.json
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\bin\Debug\net6.0\DemoNet6.dll
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\bin\Debug\net6.0\ref\DemoNet6.dll
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\bin\Debug\net6.0\DemoNet6.pdb
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.csproj.AssemblyReference.cache
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.AssemblyInfoInputs.cache
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.AssemblyInfo.cs
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.csproj.CoreCompileInputs.cache
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.dll
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\obj\Debug\net6.0\ref\DemoNet6.dll
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.pdb
+C:\Users\HoNam\OneDrive\Desktop\DemoNet6\DemoNet6\obj\Debug\net6.0\DemoNet6.genruntimeconfig.cache
